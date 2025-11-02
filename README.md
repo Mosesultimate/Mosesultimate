@@ -9,8 +9,8 @@ Delighted to have you check out my profile 🙂
 ---
 
 ### 📊 My GitHub Stats
-![Moses's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MosesMatola&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MosesMatola&layout=compact&theme=radical)
+![Moses's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mosesultimate&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mosesultimate&layout=compact&theme=radical)
 
 ---
 
@@ -24,8 +24,7 @@ Delighted to have you check out my profile 🙂
 ---
 
 ### 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/MosesMatola/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moses-matola-058748216/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=about.me&logoColor=white)](https://yourportfolio.com)
 
 ---
