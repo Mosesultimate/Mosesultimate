@@ -3,7 +3,7 @@ Delighted to have you check out my profile 🙂
 
 💬 Ask me anything about **Python programming**  
 🌟 I'm currently learning **everything** 🙃  
-🔭 I’m currently working on a **React Django web application**  
+🔭 I’m currently working on **Creating a Data ETL for raw data extraction all the way to live dashboarding**  
 ⚡ Fun fact: I like reading articles about **programming best practices**  
 
 ---
